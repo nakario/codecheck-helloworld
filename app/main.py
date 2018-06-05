@@ -5,4 +5,4 @@ def main(argv):
     # This is a sample code to use arguments and outputs.
     # Edit and remove this code as you like.
 
-    print(f"Hello {argv[0]}")
+    print(f"Hello {argv[0]}!")
